@@ -1,6 +1,6 @@
 //+------------------------------------------------------------------+
 //|                                               Sequencer_v1_2.mq4 |
-//|                                          Copyright © 2008, Xaron |
+//|                                          Copyright Â© 2008, Xaron |
 //|                                             http://www.xaron.net |
 //|                                                                  |
 //| This EA was created by Xaron: xaron@gmx.eu                       |
@@ -15,7 +15,7 @@
 //| That means, any changes and additions must be distributed        |
 //| together with the source code!                                   |
 //+------------------------------------------------------------------+
-#property copyright "Copyright © 2008, Xaron"
+#property copyright "Copyright Â© 2008, Xaron"
 #property link      "http://www.xaron.net"
 
 #include <stdlib.mqh>
